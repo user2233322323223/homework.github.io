@@ -1,7 +1,5 @@
 https://git-scm.com/downloads
 
-<<<<<<< HEAD
 update text 123 23223 655675767
-=======
 update text 123 23223 3463354
->>>>>>> 55af216d407e561a0888024fc402b8fef0849007
+
